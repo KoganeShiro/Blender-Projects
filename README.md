@@ -12,3 +12,10 @@ Adding the icing
 ![image](https://github.com/user-attachments/assets/f6eabe9b-a0e5-4470-87c9-5c11e2d6a4e5)
 ![image](https://github.com/user-attachments/assets/18785379-4ade-42c0-847f-6c89e71d46fa)
 
+Add the base color
+![image](https://github.com/user-attachments/assets/75d2d858-fa5d-41f0-95da-1c7bc9d81cc5)
+
+Add the sprinkle
+![image](https://github.com/user-attachments/assets/637eb6ea-49d6-4245-a70f-60ff28926832)
+![image](https://github.com/user-attachments/assets/e831d363-bf3b-41ca-ad97-861ee06f0fec)
+
