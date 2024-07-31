@@ -22,5 +22,9 @@ Add the sprinkle
 Different Donut
 ![image](https://github.com/user-attachments/assets/2800856a-275e-491f-98d6-0110c6d8aa0f)
 
-Rendering
+Render with EEVEE
+![donut blender](https://github.com/user-attachments/assets/43affe81-8623-4247-9731-ffaccc4c0a1c)
 
+
+Render with Cycles
+![donut blender render](https://github.com/user-attachments/assets/3636d4c5-1458-424e-bd49-2099398474e6)
