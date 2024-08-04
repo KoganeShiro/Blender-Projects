@@ -28,3 +28,18 @@ Render with EEVEE
 
 Render with Cycles
 ![donut blender render](https://github.com/user-attachments/assets/3636d4c5-1458-424e-bd49-2099398474e6)
+
+
+And the finale, the animation render !
+
+with EEVEE
+
+https://github.com/user-attachments/assets/29dec7c3-a034-47f7-a2fb-c5e823e47a1f
+
+
+
+with Cycles
+
+
+https://github.com/user-attachments/assets/50ea5261-f27d-4f12-9cbb-f8d5fbfd5133
+
