@@ -1,5 +1,12 @@
 # Blender-Project
 
+### Table of Content
+- [Starting my journey (the donut)](#starting-my-journey)
+- [Simple Table](#table)
+- [Low poly Trees](#low-poly-tree)
+- [Low poly building](#low-poly-building)
+
+
 ### Starting my journey
 Like many of people wanting to start their journey into the 3D world, Blender is the perfect free and open source solution in order to begin. And what a better way to dive into it by making a donut 😁 ?
 
@@ -42,4 +49,29 @@ with Cycles
 
 
 https://github.com/user-attachments/assets/50ea5261-f27d-4f12-9cbb-f8d5fbfd5133
+
+
+
+
+### Table
+Simple table using what i have learned previously
+![image](https://github.com/user-attachments/assets/df212b92-dd41-4aac-90b2-96dadda1f18e)
+
+EEVEE rendering
+![table](https://github.com/user-attachments/assets/1c8e16f2-c6a4-48aa-95f9-2510b7266520)
+
+Cycle rendering
+![table render](https://github.com/user-attachments/assets/9c5e9cc8-8bd9-48f9-9c42-b383ed66ba27)
+
+
+
+### Low Poly Trees
+
+
+### Low Poly Building
+![image](https://github.com/user-attachments/assets/53beac0a-cceb-4d7c-978e-a8e21f56fb6e)
+![image](https://github.com/user-attachments/assets/44e533ec-d502-45b8-84b7-5c8ee0526aba)
+
+Adding color
+![image](https://github.com/user-attachments/assets/7551ab47-61d7-4b93-a700-ebc1b303abb0)
 
