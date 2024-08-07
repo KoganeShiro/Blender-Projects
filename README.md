@@ -3,7 +3,7 @@
 ### Table of Content
 - [Starting my journey (the donut)](#starting-my-journey)
 - [Simple Table](#table)
-- [Low poly Trees](#low-poly-tree)
+- [Low poly Trees](#low-poly-trees)
 - [Low poly building](#low-poly-building)
 
 
