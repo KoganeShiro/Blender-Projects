@@ -89,6 +89,8 @@ Cycle rendering
 Adding grass
 ![image](https://github.com/user-attachments/assets/d003d0c6-7f31-4952-a9eb-e48419377875)
 
+![image](https://github.com/user-attachments/assets/d50903dd-7faf-4156-80c6-c30af5a3fa27)
+
 
 ### Low Poly Building
 ![image](https://github.com/user-attachments/assets/53beac0a-cceb-4d7c-978e-a8e21f56fb6e)
