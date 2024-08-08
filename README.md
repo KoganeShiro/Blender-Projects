@@ -5,13 +5,26 @@
 - [Simple Table](#table)
 - [Low poly Trees](#low-poly-trees)
 - [Low poly building](#low-poly-building)
-
+<!--
+- [Objects](#objects) TODO
+  - [Cap](#cap)
+  - [Headset](#headset)
+  - [Glasses](#glasses)
+  - [Cup](#cup)
+  - [Shoes](#shoes)
+  - [Trumpet](#trumpet)
+  - [Euphonium](#euphonium)
+- [Elemental Sphere Character]()
+-->
 
 ### Starting my journey
-Like many of people wanting to start their journey into the 3D world, Blender is the perfect free and open source solution in order to begin. And what a better way to dive into it by making a donut 😁 ?
+Like many of people wanting to start their journey into the 3D world, [Blender](https://www.blender.org) is the perfect free and open source solution in order to begin. And what a better way to dive into it by making a donut 😁 ?
 
 I think the donut is kind of the print hello world in programming. A must first step by many.
-This tutorial made by [Blender Guru](https://www.youtube.com/@blenderguru) will teach you how to get started.
+This tutorial made by [Blender Guru](https://www.youtube.com/@blenderguru) will teach you how to get started !
+
+
+First, the donut shape (aka the torus)
 ![image](https://github.com/KoganeShiro/Blender-Projects/assets/126095786/2760584e-38d6-4a3c-971c-59f9028d6150)
 
 Adding the icing
@@ -66,11 +79,16 @@ Cycle rendering
 
 
 ### Low Poly Trees
+
 ![tree](https://github.com/user-attachments/assets/68580d34-868f-43ba-80f5-36a0902aa2fe)
 
 ![tree2](https://github.com/user-attachments/assets/6184eb19-7eea-43b4-afe7-f5e70cb72eac)
 
 ![tree3](https://github.com/user-attachments/assets/a072488e-e1d7-4f3d-a326-9bfa7513878b)
+
+Adding grass
+![image](https://github.com/user-attachments/assets/d003d0c6-7f31-4952-a9eb-e48419377875)
+
 
 ### Low Poly Building
 ![image](https://github.com/user-attachments/assets/53beac0a-cceb-4d7c-978e-a8e21f56fb6e)
@@ -84,3 +102,21 @@ EEVEE render
 
 Cycles render
 ![building render](https://github.com/user-attachments/assets/bc8cb101-aeb1-4371-bdf7-ab48b517f382)
+
+<!--
+### Objects
+
+#### Cap
+
+#### Headset
+
+#### Glasses
+
+#### Cup
+
+#### Shoes
+
+#### Trumpet
+
+#### Euphonium
+-->
